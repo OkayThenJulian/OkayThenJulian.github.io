@@ -31,4 +31,4 @@ The objective of this lab assignment is to practice using the fundamentals of Ja
 Commit your changes and push to GitHub.
 
 #### Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWlkWIs23Pk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Watch the demo video here: [JavaScript Kitchen Sink Demo](https://www.youtube.com/watch?v=vWlkWIs23Pk)
